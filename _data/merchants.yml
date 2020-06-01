@@ -173,6 +173,8 @@
       url: https://moneroaddress.org/
     - name: Ownbit
       url: https://ownbit.io
+    - name: XMR.ID - Accept payments at <yourname>@xmr.id
+      url: https://xmr.id
 - category: Services
   id: services
   merchants:
